@@ -1,0 +1,44 @@
+body{
+	background-color: rgb(250, 230, 238);
+}
+
+h1{
+	color: navy;
+}
+h2{
+	color: navy;
+}
+a.rito{
+	color: navy;
+}
+li.cool{
+	list-style: none; 
+}
+button{
+	color: navy;
+	font-size: large;
+	
+}
+img.joli{
+	width: 300px;
+	height: 300px;
+	border: 2px solid rgb(255, 255, 255);
+	-moz-box-shadow: 0px 12px 15px rgb(0, 0, 0);
+	-webkit-box-shadow: 0px 16px 15px rgb(0, 0, 0);
+	box-shadow: 0px 16px 15px rgb(0, 0, 0) ;
+	-moz-border-radius: 200px;
+	border-radius: 200px;
+}
+img{width: 400px;
+	height: 400px;
+	border: 2px solid #fff;
+	-moz-box-shadow: 0px 12px 15px rgb(0, 0, 0);
+	-webkit-box-shadow: 0px 16px 15px rgb(0, 0, 0);
+	box-shadow: 0px 16px 15px rgb(0, 0, 0) ;
+	-moz-border-radius: 200px;
+	border-radius: 200px;
+
+}
+
+
+
